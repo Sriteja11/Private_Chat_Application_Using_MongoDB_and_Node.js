@@ -27,7 +27,7 @@ $ mongod --version
 2. Open your terminal and run the following -
 
 ```cmd
-$ git clone https://github.com/neelabhsinha/Private-Chat-Application-using-MongoDB-and-Socket.io/
+$ git clone https://github.com/Sriteja11/Private_Chat_Application_Using_MongoDB_and_Node.js
 $ cd Private-Chat-Application-using-MongoDB-and-Socket.io
 $ npm install
 $ node server.js
